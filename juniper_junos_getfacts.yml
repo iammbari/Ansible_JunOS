@@ -1,5 +1,5 @@
 ---
-- name: Get Junos facts from vMX router
+- name: Get Junos facts from 10GGS SRX
   hosts: juniper
   connection: local
   gather_facts: no
